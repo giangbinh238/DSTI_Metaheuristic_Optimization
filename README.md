@@ -21,13 +21,13 @@ pip install satsp
    - The parameters used in  simulated annealing are the temperature and the cooling rate (alpha). 
 -  Results : 
 
-![curves1](1.2.TSP/qt1.png)
+![curves1](1.2.TSP/qt1.PNG)
 
-![quartar_path](1.2.TSP/qt2.png)
+![quartar_path](1.2.TSP/qt2.PNG)
 
-![curves2](1.2.TSP/dj1.png)
+![curves2](1.2.TSP/dj1.PNG)
 
-![quartar_path](1.2.TSP/dj2.png)
+![quartar_path](1.2.TSP/dj2.PNG)
 
 ## Part 2 : Continous Optimization : 
 - In this part, we study the 6 classes of shifted functions, three (unmondial functions) have only global minimums and the three others which are the multimondial functions have both local and global minimums. 
