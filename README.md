@@ -20,9 +20,13 @@ pip install satsp
 -  Comments :
    - The parameters used in  simulated annealing are the temperature and the cooling rate (alpha). 
 -  Results : 
+
 ![Convergence curves](1.2.TSP/qt1.png)
+
 ![quartar_path](1.2.TSP/qt2.png)
+
 ![Convergence curves](1.2.TSP/dj1.png)
+
 ![quartar_path](1.2.TSP/dj2.png)
 
 ## Part 2 : Continous Optimization : 
